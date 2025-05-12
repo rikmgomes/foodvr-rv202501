@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HUB MAIN.unity
+    guid: 2dacdb7c13f903d4bb6a32515adc9914
+  - enabled: 1
+    path: Assets/Foodv1.unity
+    guid: 2c14f5bf18012684fb3a90a2432c30ba
+  - enabled: 1
+    path: Assets/Foodv1 2.unity
+    guid: f321a53776cdd414c829ec50bf29587b
+  - enabled: 1
+    path: Assets/Foodv1 1.unity
+    guid: fa9494a1bbb17d84d9e3ceb42215cc01
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fd39dcdb55bbf42478a1bb29d407de82, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d27fc45d01a6a5147a749f7cf82ce4bc, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 79d8695e802958e4ab581e74dfe0d843, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3b1ae9330a87e1947bc7631c068d70ab, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 021e881cf5544ad4b9373ff4736d210f, type: 2}
