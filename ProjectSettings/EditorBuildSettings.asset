@@ -17,6 +17,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Foodv1 1.unity
     guid: fa9494a1bbb17d84d9e3ceb42215cc01
+  - enabled: 1
+    path: Assets/HUB MAIN 1.unity
+    guid: fb872f7ad48b9cf4887b884de43a1ae7
+  - enabled: 1
+    path: Assets/HUB MAIN 2.unity
+    guid: 7d8c71f751b94d24bad5cf5c0ff46e94
+  - enabled: 1
+    path: Assets/HUB MAIN 3.unity
+    guid: d21c2567bacaede43925ad1e1bfc4bfd
+  - enabled: 1
+    path: Assets/HUB MAIN 4.unity
+    guid: 602571efe7433494db83687851539faf
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fd39dcdb55bbf42478a1bb29d407de82, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d27fc45d01a6a5147a749f7cf82ce4bc, type: 2}
