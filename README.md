@@ -16,5 +16,5 @@ Dentro da pasta Assets, você encontrará as cenas específicas para utilizaçã
 
 ## 📦Build
 Caso deseje apenas acessar um executável do projeto para fins de teste, acesse os links abaixo (ainda será necessário baixar a imagem acima):
-- Build [Android](https://drive.google.com/file/d/1ljEh4nqWaV_SZkgcfzXpfkW-7NgSl2Q8/view?usp=sharing);
-- Build [Windows](https://drive.google.com/file/d/1maRKOiNTbV_GBCDHA_o-7Lpt8i1bJu9O/view?usp=sharing).
+- Build [Android](https://drive.google.com/file/d/1ljEh4nqWaV_SZkgcfzXpfkW-7NgSl2Q8/view?usp=sharing)
+- Build [Windows](https://drive.google.com/file/d/1maRKOiNTbV_GBCDHA_o-7Lpt8i1bJu9O/view?usp=sharing)
